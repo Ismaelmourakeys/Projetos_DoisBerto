@@ -64,7 +64,7 @@ Além disso, o projeto também proporcionou a oportunidade de explorar a estrutu
   
   <img src="./assets/exercicio01.png" alt="Exercicio 1" width="600px"/>
 
-  <strong>Link do arquivo:</strong> <a href="./Exercicio%201%20-%20Javascript%20%28Medida%20do%20Quadrado%29.html" target="_blank"> 🔗 Exercicio 01 - Javascript (Medida do Quadrado).html</a>
+  <strong>Link do arquivo:</strong> <a href="./Projetos_etec/exercicio1/Exercicio 1 - Javascript (Medida do Quadrado).html" target="_blank"> 🔗 Exercicio 01 - Javascript (Medida do Quadrado).html</a>
 
   <br>
 <b>
@@ -78,7 +78,7 @@ Além disso, o projeto também proporcionou a oportunidade de explorar a estrutu
 
   <img src="./assets/exercicio02.png" alt="Exercicio 2" width="600px"/>
   
-  <strong>Link do arquivo:</strong> <a href="./Exercicio%202%20-%20Javascript%20%28Numeros%20Inteiros%29.html" target="_blank"> 🔗 Exercicio 02 - Javascript (Calculo de Números Inteiros).html</a>
+  <strong>Link do arquivo:</strong> <a href="./Projetos_etec/exercicio2/Exercicio 2 - Javascript  (Calculo de Números Inteiros).html" target="_blank"> 🔗 Exercicio 02 - Javascript (Calculo de Números Inteiros).html</a>
   
   <br>
 
@@ -105,7 +105,7 @@ Saida de Dados;
   
   <img src="./assets/exercicio03.png" alt="Exercicio 3" width="600px"/>
   
-  <strong>Link do arquivo:</strong> <a href="./Exercicio%203%20-%20Javascript%20%28Folha%20de%20Pagamento%29.html" target="_blank"> 🔗 Exercicio 03 - Javascript (Folha de Pagamento).html</a>
+  <strong>Link do arquivo:</strong> <a href="./Projetos_etec/exercicio3/Exercicio 3 - Javascript (Folha de Pagamento).html" target="_blank"> 🔗 Exercicio 03 - Javascript (Folha de Pagamento).html</a>
   
   <br>
 
@@ -121,7 +121,7 @@ Saida de Dados;
 
   <img src="./assets/login.png" alt="Exercicio 4" width="600px"/>
   
-  <strong>Link do arquivo:</strong> <a href="./Exercicio%204%20-%20Javascript%20%28Página%20de%20Login%29.html" target="_blank"> 🔗 Exercicio 04 - Javascript (Página de Login).html</a>
+  <strong>Link do arquivo:</strong> <a href="./Projetos_etec/login/Tela de Login.html" target="_blank"> 🔗 Exercicio 04 - Javascript (Página de Login).html</a>
   
   <br>
 </ul>
